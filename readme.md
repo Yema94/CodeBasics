@@ -1,4 +1,4 @@
-Introduction to Bitcoin Mining:
+Some theory related to Bitcoin Mining:
 
 1. Bitcoin is nothing but a ledger. 
 2. A ledger is a set of transactions, which are stored in different blocks also called as Block Chain.
